@@ -34,3 +34,6 @@ body {
   border: 1px solid #999;
   border-radius: 10px;
 }
+.card__face--front {
+  background-color: #ffffff;
+}
