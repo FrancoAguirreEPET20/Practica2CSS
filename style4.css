@@ -7,3 +7,8 @@ body {
   margin: 0;
   font-family: sans-serif;
 }
+.scene {
+  width: 200px;
+  height: 300px;
+  perspective: 1000px;
+}
